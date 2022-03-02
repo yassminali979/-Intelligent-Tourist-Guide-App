@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157266035124",
+    "project_id": "intelligenttourist-da5f9",
+    "storage_bucket": "intelligenttourist-da5f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157266035124:android:b1bbdc19e0012f4ee9b2e1",
+        "android_client_info": {
+          "package_name": "com.example.intelligenttourist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157266035124-7pbrnvuj4pvih6r5mhfeliend8uc697m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCCVS_nuX1LTKUCSMgtExVk6MhSlViHzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157266035124-7pbrnvuj4pvih6r5mhfeliend8uc697m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
